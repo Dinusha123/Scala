@@ -1,4 +1,4 @@
-package ListType
+package listtype
 
 object Sets extends  App {
   // in sets there is no duplicates

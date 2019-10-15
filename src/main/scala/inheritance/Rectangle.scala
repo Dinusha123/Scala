@@ -1,4 +1,4 @@
-package Inheritance
+package inheritance
 
 // inherits from polygon class
 class Rectangle(var width: Double,var height: Double) extends Polygon with Shape {
