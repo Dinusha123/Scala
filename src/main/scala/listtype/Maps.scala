@@ -1,4 +1,4 @@
-package ListType
+package listtype
 
 object Maps extends App {
 

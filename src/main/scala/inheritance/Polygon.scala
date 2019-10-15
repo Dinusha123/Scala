@@ -1,4 +1,4 @@
-package Inheritance
+package inheritance
 
 //abstract class
 abstract class Polygon {
